@@ -117,8 +117,12 @@ Social sharing feature
 ### HOME SCREEN
 <img width="278" height="643" alt="Screenshot 2026-01-28 190824" src="https://github.com/user-attachments/assets/07aac23c-07c6-4a86-84c8-d1cf51ff959e" />
 <img width="280" height="640" alt="Screenshot 2026-01-28 190847" src="https://github.com/user-attachments/assets/13fdb632-42e2-4405-8e36-239eb33c99ed" />
+
+
 ### DAILY CHALLENGES
 <img width="284" height="636" alt="Screenshot 2026-01-28 190929" src="https://github.com/user-attachments/assets/57ecc284-1d73-44c9-bde5-584be35cc547" />
+
+
 ### TEAM MISSION AND LEADERBOARD
 <img width="290" height="637" alt="Screenshot 2026-01-28 191008" src="https://github.com/user-attachments/assets/a3ed1d38-bd41-4870-9420-f824c3746243" />
 <img width="276" height="621" alt="Screenshot 2026-01-28 191426" src="https://github.com/user-attachments/assets/5d85eb64-0d58-43fd-93cf-4fefa1e54ddb" />
