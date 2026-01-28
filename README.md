@@ -1,5 +1,5 @@
-🌱 Digital GreenWall – Gamified Eco-Interaction Companion App
-📌 Project Overview
+# 🌱 Digital GreenWall – Gamified Eco-Interaction Companion App
+## 📌 Project Overview
 
 Digital GreenWall is a mobile app prototype designed to help school and college students reconnect with nature using fun digital experiences. The app uses gamification, eco-challenges, avatars, team missions, and rewards to encourage daily eco-friendly actions. The goal of this project is to make environmental care easy, enjoyable, and habit-forming.
 
@@ -112,8 +112,8 @@ Social sharing feature
 
 🔗 Figma Prototype Link
 
-[https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard](https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard)
-📸 Screenshots
+[[https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard](https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard](https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?p=f&t=OkhxPnXmPPZcHxRe-0&fullscreen=1&preview-route=%2Fhome))
+## 📸 Screenshots
 
 (Add screenshots of your app screens in this section)
 
