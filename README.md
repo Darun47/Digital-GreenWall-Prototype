@@ -3,11 +3,11 @@
 
 Digital GreenWall is a mobile app prototype designed to help school and college students reconnect with nature using fun digital experiences. The app uses gamification, eco-challenges, avatars, team missions, and rewards to encourage daily eco-friendly actions. The goal of this project is to make environmental care easy, enjoyable, and habit-forming.
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 Many students spend most of their time on screens and have little interaction with nature. Because of this, they feel less connected to the environment and are less motivated to take eco-friendly actions. Digital GreenWall aims to solve this problem by turning real-world green actions into fun challenges with rewards.
 
-👥 Target Users
+## 👥 Target Users
 
 School and college students (ages 12–22)
 
@@ -15,7 +15,7 @@ Students who enjoy mobile apps and games
 
 Young people who want to help the environment but lack motivation
 
-⭐ Key Features
+## ⭐ Key Features
 
 Daily Eco-Challenges
 Small tasks like watering plants, avoiding plastic, or spotting birds.
@@ -38,7 +38,7 @@ Badges, avatar items, and unlockable themes.
 Proof Submission
 Users upload photos to confirm completed tasks.
 
-🔁 User Flow
+## 🔁 User Flow
 
 Open App
 
@@ -60,7 +60,7 @@ Join Team Missions
 
 Claim Rewards
 
-🎮 Gamification Elements
+## 🎮 Gamification Elements
 
 Eco-Points
 
@@ -76,7 +76,7 @@ Unlockable Avatar Items
 
 These features motivate users to stay active and consistent.
 
-🧠 Design Approach
+## 🧠 Design Approach
 
 Nature-inspired colors (green, blue, earthy tones)
 
@@ -88,7 +88,7 @@ Youth-friendly icons and illustrations
 
 Accessible design with good contrast
 
-🧪 User Testing & Iteration
+## 🧪 User Testing & Iteration
 
 The prototype was tested with classmates.
 
@@ -100,7 +100,7 @@ Navigation was confusing → Added labels and icons
 
 Changes were applied to improve usability.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Real AR camera integration
 
@@ -110,14 +110,14 @@ AI-based personalized challenges
 
 Social sharing feature
 
-🔗 Figma Prototype Link
+## 🔗 Figma Prototype Link
 
 [[https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard](https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?t=fieOG5Qc8RM3dnw1-1&preview-route=%2Fleaderboard](https://www.figma.com/make/Yhx0Nxqjtk5CjFFINhtRpw/High-Fidelity-Eco-App-Prototype?p=f&t=OkhxPnXmPPZcHxRe-0&fullscreen=1&preview-route=%2Fhome))
 ## 📸 Screenshots
 
 (Add screenshots of your app screens in this section)
 
-📁 Tools Used
+## 📁 Tools Used
 
 Figma (UI/UX Design & Prototyping)
 
@@ -125,7 +125,7 @@ Canva (Graphics)
 
 GitHub (Project Hosting)
 
-🧑‍💻 Author
+##🧑‍💻 Author
 
 Student Name: (S.DARUN)
 Course: Artificial Intelligence
