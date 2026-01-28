@@ -128,6 +128,19 @@ Social sharing feature
 <img width="276" height="621" alt="Screenshot 2026-01-28 191426" src="https://github.com/user-attachments/assets/5d85eb64-0d58-43fd-93cf-4fefa1e54ddb" />
 
 
+### AR NATURE SIMULATION 
+<img width="284" height="625" alt="Screenshot 2026-01-28 191709" src="https://github.com/user-attachments/assets/8faa6a49-2d20-4ba2-9702-172e7aa61818" />
+
+### USER PROGRESS AND PROFILE DASHBOARD 
+<img width="277" height="619" alt="Screenshot 2026-01-28 191341" src="https://github.com/user-attachments/assets/74da9b59-515b-4a30-9d38-a79fc077e108"
+<img width="276" height="622" alt="Screenshot 2026-01-28 191328" src="https://github.com/user-attachments/assets/7f24aa48-9525-4919-a2a8-9c93c77d6d2a" />
+ />
+ <img width="288" height="637" alt="Screenshot 2026-01-28 191032" src="https://github.com/user-attachments/assets/2ab09b0a-0d6b-41e9-be6f-cb445ed6da91" />
+
+
+
+
+
 
 
 
