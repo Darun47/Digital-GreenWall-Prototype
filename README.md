@@ -145,10 +145,6 @@ Social sharing feature
 
 
 
-
-
-(Add screenshots of your app screens in this section)
-
 ## 📁 Tools Used
 
 Figma (UI/UX Design & Prototyping)
@@ -159,6 +155,6 @@ GitHub (Project Hosting)
 
 ## 🧑‍💻 Author
 
-Student Name: (S.DARUN)
-Course: Artificial Intelligence
-Project: Critical and Creative Thinking – Summative Assessment
+#### Student Name: (S.DARUN)
+#### Course: Artificial Intelligence
+#### Project: Critical and Creative Thinking – Summative Assessment
